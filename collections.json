@@ -1,0 +1,36 @@
+[
+    {
+
+      "nome":"Balthazar",
+      "idade":31,
+      "forca":2,
+      "resistencia":6,
+      "velocidade":3,
+      "inteligencia":8
+    },
+    {
+      "nome":"Iris",
+      "idade":23,
+      "forca":3,
+      "resistencia":8,
+      "velocidade":7,
+      "inteligencia":5     
+    },
+    {
+      "nome":"Roramir",
+      "idade":35,
+      "forca":8,
+      "resistencia":6,
+      "velocidade":4,
+      "inteligencia":2     
+    },
+    {
+      "nome":"Diana",
+      "idade":27,
+      "forca":6,
+      "resistencia":7,
+      "velocidade":4,
+      "inteligencia":3            
+    }
+   
+  ]
